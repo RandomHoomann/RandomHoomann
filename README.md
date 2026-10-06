@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Pragna 👋
 
-<!--
-**RandomHoomann/RandomHoomann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 7th-semester Electronics & Communication Engineering student at NMIT, Bengaluru, interested in **Embedded Systems, Firmware and IoT**.
 
-Here are some ideas to get you started:
+### 🔧 Technologies I'm working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Embedded C / C++
+- STM32 & ESP32
+- Arduino
+- FreeRTOS
+- UART, SPI & I²C
+- Git & Linux
+
+### 🚀 Featured Projects
+
+- 💊 Intelligent Medication Assistance System
+- ❤️ ESP32 Health Monitoring System
+- 🧠 Adaptive Bio-Sensing Wearable
+- 🤖 Robotic Finger Actuation
+
+### 🌱 Currently Learning
+
+- Advanced STM32 & ARM concepts
+- Embedded Linux
+- RTOS
+- Computer Networks
+
+### 📫 Connect with me
+
