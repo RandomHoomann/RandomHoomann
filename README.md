@@ -16,7 +16,7 @@ I'm a 7th-semester Electronics & Communication Engineering student at NMIT, Beng
 - 💊 Intelligent Medication Assistance System
 - ❤️ ESP32 Health Monitoring System
 - 🧠 Adaptive Bio-Sensing Wearable
-- 🤖 Robotic Finger Actuation
+- 
 
 ### 🌱 Currently Learning
 
